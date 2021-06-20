@@ -1,6 +1,6 @@
 # pyasyncorm
 
-Async ORM for postgres with a focus on simplicity, stability and performance.
+Async ORM for SQL databases with a focus on simplicity, stability and performance.
 
 ## Current database support
 
